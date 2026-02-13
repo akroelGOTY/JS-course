@@ -36,10 +36,18 @@ console.log("Hello from app.js!");
         let saudacaoTemplate = `Olá, ${nome}! Você tem ${idade}.`;
         console.log(saudacaoTemplate);
 
+    // null: “Eu sei que essa variável existe, mas ela não tem valor no momento.”
+    let usuario = null;
+    console.log(usuario);
+
+    //undefined: variável foi criada mas nunca recebeu valor.
+    let user;
+    console.log(user); // undefined
+
     // booleans
+    console.log(typeof true)
     console.log(15 > 4)
     console.log(false)
-    console.log(typeof true)
 
 // Comparações
     // maior e menor: > e <
@@ -50,5 +58,27 @@ console.log("Hello from app.js!");
         // exemplos:
         console.log(4 <= 4)
         console.log(10 == 10)
-        console.log(5 != 5)
         console.log(10 === "10")
+        console.log(5 != 5)
+        console.log(5 != "5")
+        console.log(5 !== "5")
+
+// Operadores lógicos
+    /*
+    servem para unir duas ou mais
+    comparações, o final também é
+    em Boolean
+    */
+   // && - AND -true apenas se os dois forem verdadeiros
+   // || - OR - para ser trueum lado como true é suficiente
+   // ! - NOT - este operador inverte a comparação
+        // exemplos:
+        console.log(true && true)
+        console.log(true && false)
+        console.log(5 > 2 && 3 > 2)
+        console.log(1 < 5 && "lucas" === 1)
+            console.log(1 < 5 || "lucas" === 1)
+            console.log(5 > 2 || 3 > 22)
+                console.log(!true)
+                console.log(!5 < 2)
+
