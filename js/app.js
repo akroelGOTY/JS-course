@@ -35,3 +35,20 @@ console.log("Hello from app.js!");
         // template literals (interpolação de strings)
         let saudacaoTemplate = `Olá, ${nome}! Você tem ${idade}.`;
         console.log(saudacaoTemplate);
+
+    // booleans
+    console.log(15 > 4)
+    console.log(false)
+    console.log(typeof true)
+
+// Comparações
+    // maior e menor: > e <
+    // maior ou igual e menor ou igual: >= e <=
+    // igual: ==
+    // diferente: !=
+    // idêntico: ===
+        // exemplos:
+        console.log(4 <= 4)
+        console.log(10 == 10)
+        console.log(5 != 5)
+        console.log(10 === "10")
