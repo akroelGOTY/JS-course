@@ -21,6 +21,6 @@ Repositório criado para acompanhar meu aprendizado em **JavaScript**, praticand
 
 ---
 
+# Como acessar o console
 
-
-
+botão direito > inspecionar elementos > console
