@@ -136,5 +136,11 @@ console.log("Hello from app.js!");
         o--;
     } while (o > 8);
 
+    // for -> condensa toda a lógica do código em uma linha
+    for (let i = 0; i < 10; i++) {
+        console.log("repetindo: i")
+    }
 
-
+    for (let i = 0; i < 10; i++) {
+        console.log(`Repetindo ${i}`)
+    }
