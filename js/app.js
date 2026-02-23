@@ -114,4 +114,20 @@ console.log("Hello from app.js!");
         console.log("seu salario é mt baixo !");
     }
 
+// Estrutura de repetição
+// while / do while / for / switch
+    // while -> faz uma ação até que uma condição seja atingida
+    let i = 0;
+
+    while (i < 4) {
+        i = i + 1;
+        console.log(`Somando: ${i}`);
+    }
+
+    // loop infinito
+    //    while (i < 4) {
+    //    console.log(`Somando: ${i}`);
+    //   }
+
+
 
