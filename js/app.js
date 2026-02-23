@@ -144,3 +144,15 @@ console.log("Hello from app.js!");
     for (let i = 0; i < 10; i++) {
         console.log(`Repetindo ${i}`)
     }
+
+    // break -> usamos Break para podemos ejetar um loop fazendo q com as repetições cessem
+    // É muito util para poupar mémorio (otimização do código)
+
+    for (let i = 18; i > 6; i--) {
+        console.log(`value ${i}`)
+        if (i === 12) {
+            console.log(`O valor de "i" é igual a ${i}`)
+            break
+        }
+    }
+
