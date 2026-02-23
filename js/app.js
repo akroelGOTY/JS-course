@@ -129,5 +129,12 @@ console.log("Hello from app.js!");
     //    console.log(`Somando: ${i}`);
     //   }
 
+    // do while -> semelhante ao while
+    let o = 12;
+    do {
+        console.log(`diminuindo: ${o}`);
+        o--;
+    } while (o > 8);
+
 
 
