@@ -156,3 +156,12 @@ console.log("Hello from app.js!");
         }
     }
 
+    // continue -> semelhante ao break
+    for (let i = 0; i < 10; i = i + 1) {
+        if (i % 2 === 0) {
+            console.log(`O número ${i}: é par`);
+            continue;
+        }
+    }
+
+
