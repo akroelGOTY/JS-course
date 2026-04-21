@@ -1,6 +1,10 @@
-# 📘 Curso de JavaScript
+<div align="center">
+  <img width="212" height="212" alt="image" src="https://github.com/user-attachments/assets/0c2164ba-7210-4ee4-a74c-9b2487f31f5d" />
+
+  # 📘 Curso de JavaScript
 
 Repositório criado para acompanhar meu aprendizado em **JavaScript**, praticando <br> lógica, manipulação do DOM e projetos práticos.
+</div>
 
 ## Onde achar esses conteúdos?
 
