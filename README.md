@@ -36,3 +36,18 @@ Ex:
 - Raycast
 - Chatgpt
 - Visual Studio code (vscode)
+
+## 🧠 Ordem ideal para aprender JavaScript:
+
+```
+1. Tipos de dados
+2. Operadores (aritméticos + lógicos)
+3. Comparações
+4. Estrutura de controle
+5. Estrutura de repetição
+6. Funções
+7. Arrow functions
+8. Objetos
+9. Estrutura de programação
+10. Type casting
+```
