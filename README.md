@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="212" height="212" alt="image" src="https://github.com/user-attachments/assets/0c2164ba-7210-4ee4-a74c-9b2487f31f5d" />
+  <img width="162" height="162" alt="image" src="https://github.com/user-attachments/assets/0c2164ba-7210-4ee4-a74c-9b2487f31f5d" />
 
   # 📘 Curso de JavaScript
 
@@ -24,7 +24,7 @@ http://127.0.0.1:3000/index.html?vscode-livepreview=true
 ## Como acessar o conteúdo do Javascript para executar no index.html?
 
 Ex:
-```txt
+```html
 <script src="./Conteudo/pasta-do-tema/arquivo.js"></script>
 ```
 <p>
