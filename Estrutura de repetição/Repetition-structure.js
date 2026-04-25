@@ -47,3 +47,16 @@
             continue;
         }
     }
+
+// switch ->  é uma estrutura de controle usada para testar vários casos de uma variável/expressão e executar o bloco correspondente.
+    // case é cada opção/valor que o switch compara para decidir o que executar.
+    switch (dia) {
+    case 1:
+        console.log("Segunda");
+        break;
+    case 2:
+        console.log("Terça");
+        break;
+    default:
+        console.log("Outro dia");
+    }
