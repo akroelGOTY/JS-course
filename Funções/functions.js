@@ -57,3 +57,11 @@
     }
 
     funcaoExterna();
+
+    // exemplo prático:
+    function calcularMediaBimestral(nota1, nota2) {
+        let media = (nota1 + nota2) / 2;
+        return media;
+    }
+    let mediaAluno = calcularMediaBimestral(8, 6);
+    console.log(`A média bimestral do aluno é: ${mediaAluno}`);
