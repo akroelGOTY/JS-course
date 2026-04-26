@@ -16,14 +16,19 @@
     imprimirMensagemComNome("Lucas");
 
     // função com retorno
+     // função com retorno é aquela que retorna um valor após sua execução
     function somar(a, b) {
-        return a + b;
+        return a + b; // o valor retornado pode ser armazenado em uma variável ou usado diretamente
     }
+
     let resultado = somar(5, 3);
     console.log("Resultado da soma:", resultado);
 
     // escopo da função
+     // escopo é a área onde uma variável ou função é acessível. Variáveis declaradas dentro de uma função não são acessíveis fora dela, e vice-versa.
+
     let variavelGlobal = "Eu sou global";
+    // console.log(variavelLocal); // isso causará um erro, pois variavelLocal não está definida no escopo global
 
     function exemploEscopo() {
         let variavelLocal = "Eu sou local";
@@ -33,6 +38,7 @@
     exemploEscopo();
 
     // escopo aninhado
+     // escopo aninhado ocorre quando uma função é definida dentro de outra função. A função interna tem acesso às variáveis da função externa, mas a função externa não tem acesso às variáveis da função interna.
     let variavelExterna = "1";
 
     function funcaoExterna() {
@@ -46,5 +52,8 @@
                 console.log(variavelInterna);
                 console.log(variavelExterna);
             }
+
+        // console.log(variavelBloco); // isso causará um erro, pois variavelBloco não está definida no escopo da função externa
     }
+
     funcaoExterna();
