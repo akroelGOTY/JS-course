@@ -12,6 +12,9 @@
     console.log(pessoa.nome); // Lucas
     console.log(pessoa.idade); // 16
 
+    const acessarNome = pessoa.nome;
+    console.log(acessarNome); // Lucas
+
     // chamar função
     pessoa.falar(); // Oi!
 
@@ -46,3 +49,8 @@
     };
 
     myObject.greet(); // Greetings from Madrid
+
+    // verificar prototipo
+     // Typeof retorna o tipo do valor, e instanceof verifica se um objeto é uma instância de um prototipo específico.
+    console.log(typeof myObject); // object
+    console.log(myObject instanceof Object); // true
