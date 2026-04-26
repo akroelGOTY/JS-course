@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="162" height="162" alt="image" src="https://github.com/user-attachments/assets/0c2164ba-7210-4ee4-a74c-9b2487f31f5d" />
+  <img width="142" height="142" alt="image" src="https://github.com/user-attachments/assets/f897f57a-c30a-44e5-a142-714b108be58d" />
+
 
   # 📘 Curso de JavaScript
 
@@ -51,3 +52,11 @@ Ex:
 9. Estrutura de programação
 10. Type casting
 ```
+
+## Extenções usadas:
+```
+-> Filetree Pro    -> Prettier
+-> Live Preview    -> Symbols
+-> Error lens      -> Glacier Theme 
+```
+
