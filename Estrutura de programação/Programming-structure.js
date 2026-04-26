@@ -1,4 +1,5 @@
 // Estrutura de programação
+  // são as formas de organizar o código para que ele seja mais legível, fácil de entender e de manter.
     // funções de prompt
         //const age = prompt("digite sua idade: ");
         //console.log(`você tem: ${age} anos`)
