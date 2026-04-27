@@ -65,3 +65,49 @@
     }
     let mediaAluno = calcularMediaBimestral(8, 6);
     console.log(`A média bimestral do aluno é: ${mediaAluno}`);
+
+    // Closure
+      // Closure é um conceito em JavaScript onde uma função tem acesso às variáveis do seu escopo externo, mesmo após a função externa ter sido executada.
+      // Isso permite que a função interna "lembre" do ambiente em que foi criada.
+
+    // 🧠 Ideia simples
+    // 👉 Closure = função + memória do escopo onde nasceu
+
+    // Exemplo de closure:
+    function contador() {
+    let count = 0;
+
+    return function() {
+      count++;
+      console.log(count);
+     };
+    }
+
+    const c = contador();
+
+    c(); // 1
+    c(); // 2
+    c(); // 3
+
+    // count deveria “sumir” mas a função interna lembra dele - isso é closure!
+
+    // Muito usado para:
+     // 1. Guardar estado
+     // 2. Variáveis privadas
+     // 3. Funções de callback e etc...
+
+    // Recursão
+     // Recursão é uma técnica onde uma função chama a si mesma para resolver um problema.
+     // Ela geralmente envolve uma condição de parada para evitar chamadas infinitas.
+
+    function fatorial(n, m) {
+        if (n < 20) {
+            console.log(`A função foi parada`);
+        } else {
+            const x = n - m;
+            console.log(x);
+            fatorial(x, m);
+        }
+    }
+
+    fatorial(100, 20);
