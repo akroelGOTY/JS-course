@@ -1,6 +1,6 @@
 # File Tree: JS-course-main
 
-**Generated:** 25/04/2026, 22:17:32 <br>
+**Generated:** 25/04/2026<br>
 **Repositório:** `Js-course`
 
 ```
