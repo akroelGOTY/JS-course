@@ -1,0 +1,14 @@
+# Arquivos do sistema
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Arquivos de ambiente (caso use no futuro)
+.env
