@@ -1,6 +1,6 @@
 # File Tree: JS-course-main
 
-**Generated:** 25/04/2026<br>
+**Generated:** 11/05/2026<br>
 **Repositório:** `Js-course`
 
 ```
@@ -9,6 +9,29 @@
 │   │   └── 📄 arrow-functions.js
 │   ├── 📁 Comparações
 │   │   └── 📄 comparisons.js
+│   ├── 📁 Data Structures
+│   │   ├── 📁 Indexed Collections
+│   │   │   ├── 📄 Arrays.js
+│   │   │   ├── 🖼️ Typed-arrays-resumo.png
+│   │   │   ├── 📄 TypedArrays.js
+│   │   │   ├── 🖼️ arrays-example.png
+│   │   │   ├── 🖼️ diferença.png
+│   │   │   └── 📄 indexed-collections.js
+│   │   ├── 📁 Keyed Collections
+│   │   │   ├── 📄 0-Keyed Collections.js
+│   │   │   ├── 📄 1-map.js
+│   │   │   ├── 📄 2-Weak Map.js
+│   │   │   ├── 📄 3-Set.js
+│   │   │   ├── 📄 4-Weak Set.js
+│   │   │   └── 🖼️ diferença.png
+│   │   ├── 📁 Strutured Data
+│   │   │   ├── ⚙️ data.json
+│   │   │   ├── 📄 json.js
+│   │   │   └── 🖼️ resumo.png
+│   │   ├── 📄 Data Structures.js
+│   │   ├── 🖼️ data-structures.png
+│   │   └── 🖼️ roadmap.png
+│   ├── 📁 Equality Comparisons
 │   ├── 📁 Estrutura de controle
 │   │   └── 📄 Control-structure.js
 │   ├── 📁 Estrutura de programação
@@ -17,25 +40,38 @@
 │   │   ├── 📄 Repetition-structure.js
 │   │   └── 🖼️ image.png
 │   ├── 📁 Funções
+│   │   ├── 🖼️ closure-resumo.png
 │   │   └── 📄 functions.js
 │   ├── 📁 Javascript objects
-│   │   ├── 📄 Prototypal-Inheritance.js
-│   │   ├── 🖼️ Prototypal-Inheritance.png
-│   │   ├── 🖼️ build-object.png
-│   │   ├── 📄 build-objects.js
-│   │   ├── 📄 objects.js
-│   │   ├── 🖼️ objeto-resumo.png
-│   │   ├── 📄 prototype.js
-│   │   └── 🖼️ prototype.png
+│   │   ├── 📄 1-objects.js
+│   │   ├── 🖼️ 1-objeto-resumo.png
+│   │   ├── 📄 2-prototype.js
+│   │   ├── 🖼️ 2-prototype.png
+│   │   ├── 📄 3-Prototypal-Inheritance.js
+│   │   ├── 🖼️ 3-Prototypal-Inheritance.png
+│   │   ├── 🖼️ 4-build-object.png
+│   │   └── 📄 4-build-objects.js
 │   ├── 📁 Operadores Lógicos
 │   │   └── 📄 oper-log.js
 │   ├── 📁 Operadores aritméticos
 │   │   └── 📄 oper-arit.js
 │   ├── 📁 Tipo de dados
-│   │   └── 📄 data-types.js
+│   │   ├── 📄 data-types.js
+│   │   └── 🖼️ data-types.png
 │   └── 📁 Type casting
 │       ├── 🖼️ type-casting-resumo.png
 │       └── 📄 type-casting.js
+├── 📁 anotacoes
+│   ├── 📝 array.md
+│   ├── 📝 data-structures.md
+│   └── 📝 objects-javascript.md
+├── 📁 projetos
+│   └── 📁 projeto1
+│       ├── 📁 css
+│       ├── 📁 html
+│       └── 📁 js
+├── ⚙️ .gitignore
+├── 📝 Filetree.md
 ├── 🎨 app.css
 └── 🌐 index.html
 ```
