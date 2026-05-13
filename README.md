@@ -1,6 +1,7 @@
 <div align="center">
   
-  <img width="142" height="142" alt="image" src="https://github.com/user-attachments/assets/8d46f858-4e29-43e0-9ce9-d7132524cfec" />
+  <img width="112" height="112" alt="image" src="https://github.com/user-attachments/assets/d3853d5a-e913-4644-839e-e7d7947e8621" />
+
 
 
   # 📘 Curso de JavaScript
@@ -23,22 +24,15 @@ Repositório criado para acompanhar meu aprendizado em **JavaScript**, praticand
 
 ### Como abrir o index.html?
 
-<i>botão direito do mouse -> Mostrar versão prévia -> Copia o link -> Colar na URL</i> 
+<i>botão direito do mouse -> Mostrar versão prévia -> Copia o link -> Colar na URL</i> <br>
+<b>A extensão Live Preview é necessária.</b>
 
 <img width="700" height="100" alt="image" src="https://github.com/user-attachments/assets/63dfcacd-8de2-4493-91d5-bfe4bf20e6af" />
 
 ---
 
-### 🧠 Ordem ideal para aprender JavaScript:
+<img width="700" height="368 " alt="image" src="https://github.com/user-attachments/assets/128e7366-558c-46a5-b142-6a1aa9119547" />
 
-<img width="395" height="549" alt="image" src="https://github.com/user-attachments/assets/357f74e6-042c-4ae3-a28e-c5d92f8e36c5" />
-
---- 
-
-<h3>QRcode do repositório</h3>
-<p>Ajude outra pessoa acessar o curso!</p>
-
-<img width="199" height="196" alt="image" src="https://github.com/user-attachments/assets/f107db15-e4a0-472e-b798-75b8f90a8f35" />
 
 </div>
 
