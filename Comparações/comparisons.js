@@ -4,6 +4,7 @@
     // igual: ==
     // diferente: !=
     // idêntico: ===
+    // não idêntico: !==
 
 // exemplos:
     console.log(4 <= 4)
