@@ -7,6 +7,7 @@
 </p>
 
 - são usados principalmente para:
+
   <img width="276" height="200" alt="image" src="https://github.com/user-attachments/assets/4197559a-4d28-49d6-bd88-775336bc9792" />
 
 
